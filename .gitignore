@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# production
+/src/data/config.js
+/server/config/config.json
+npm-debug.log*
+

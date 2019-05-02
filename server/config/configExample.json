@@ -1,0 +1,12 @@
+{
+    "port": 8000,
+    "mongoose": {
+        "uri": "[MONGODB_URL]",
+        "options": {
+            "keepAlive": true,
+            "useNewUrlParser": true,
+            "useCreateIndex" : true
+        }
+    },
+    "distance": 10000
+}

@@ -1,0 +1,15 @@
+.display-map{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.map{
+    width: 100%;
+}
+.leaflet-grab{
+    cursor: pointer;
+}
+.leaflet-grab:active{
+    cursor: grabbing;
+}
+
